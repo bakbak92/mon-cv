@@ -1,0 +1,168 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #F8F8F8;
+}
+nav {
+  background-color: #2D2D2D;
+  padding: 20px;
+  margin-bottom: 30px;
+}
+nav ul li a {
+ text-decoration: none;
+ color: white;
+}
+nav a:hover {
+  text-decoration: none;
+  color: #FF9E9D;
+}
+nav a:active {
+  text-decoration: none;
+  color: #FF9E9D;
+}
+nav ul {
+  display: flex;
+  justify-content: space-around;
+  list-style: none;
+}
+#apropos {
+  text-align: center;
+}
+#apropos h1{
+  color: #262626;
+  font-weight: 700;
+  font-size: 60px;
+}
+#apropos h2 {
+  color: #525252;
+  font-size: 40px;
+  font-weight: 700;
+}
+#apropos h3 {
+  color: #626262;
+  font-weight: 700;
+}
+#apropos p {
+  color: #626262;
+  font-size: 18px;
+  padding: 10px 40px;
+}
+#apropos i {
+  color: #FF9E9D;
+}
+.profil {
+  width: 180px;
+  border-radius: 100%;
+  margin: 10px;
+}
+.separ {
+  border: 2px solid #D8D8D8;
+  width: 300px;
+  margin: 30px auto;
+}
+#work {
+  background-image: url(img/work.jpg);
+  padding: 30px 0;
+}
+#work h2 {
+  color: white;
+  font-size: 40px;
+}
+footer {
+  background-color: #2D2D2D;
+  padding: 20px;
+  margin-top: 50px;
+}
+footer a {
+  text-decoration: none;
+}
+footer h3 {
+  text-align: center;
+  color: white;
+}
+footer ul {
+  display: flex;
+  justify-content: center;
+  list-style: none;
+}
+footer li {
+  padding-right: 40px;
+}
+ i {
+  color: #FF9E9D;
+}
+footer i:hover {
+  color: white;
+}
+.work {
+  padding: 10px 100px;
+  font-size: 18px;
+  color: #626262;
+}
+.work h2 {
+  font-size: 40px;
+  font-weight: 700;
+  text-align: center;
+  color: #424242;
+}
+.xp {
+  margin-top: 30px;
+}
+.xp img{
+  width: 60px;
+  margin-left: 30px;
+}
+.compétence .bar {
+  background-color:#E0E3DA;
+  height: 20px;
+  margin: 20px 40px;
+}
+.compétence .progres1 {
+  background-color: #99F19E;
+  width: 70%;
+  height: 20px;
+}
+.compétence .progres2 {
+  background-color: #2B90D9;
+  width: 50%;
+  height: 20px;
+}
+.compétence .progres3 {
+  background-color: #FD999A;
+  width: 65%;
+  height: 20px;
+}
+.compétence .progres4 {
+  background-color: #FBD14B;
+  width: 45%;
+  height: 20px;
+}
+.compétence h2 {
+  padding-left: 30px;
+}
+.compétence h1 {
+  text-align: center;
+  font-weight: 700;
+  font-size: 40px;
+  color: #424242;
+}
+.interet h2 {
+  font-size: 40px;
+  font-weight: 700;
+  text-align: center;
+  color: #424242;
+}
+.interet ul {
+  margin-left: 100px;
+
+}
+.interet li {
+  font-size: 25px;
+  font-weight: 700;
+  padding: 20px;
+  color: #626262;
+  list-style: none;
+}
+.interet img {
+  padding-left: 30px;
+}
