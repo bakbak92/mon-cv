@@ -1,5 +1,5 @@
 <footer>
-    <h3>Retrouvez moi sur</h3>
+    <h3>Retrouvez moi-sur</h3>
     <ul>
       <li><a href="#"><i class="fa fa-github fa-4x" aria-hidden="true"></i></a></li>
       <li><a href="#"><i class="fa fa-facebook-square fa-4x" aria-hidden="true"></i></a></li>
